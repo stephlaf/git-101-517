@@ -1,0 +1,8 @@
+Make changes to the project
+Want to save a version (snapshot)
+
+1. git status
+2. git diff
+3. git add <name_of_file>
+4. git commit -m "A meaningful message"
+5. git status
